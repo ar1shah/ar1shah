@@ -21,3 +21,4 @@
 
 - 🏠 **[Align](https://github.com/ar1shah/align)** - a full-stack real estate agent-matching platform
 - 🛡️ **[RedirectGuard](https://github.com/ar1shah/redirect-guard)** - chrome extension that blocks  unwanted redirects
+- 📄 **[ResumeMaxx](https://github.com/ar1shah/ResumeMaxx)** - resume vs. job description match scorer
