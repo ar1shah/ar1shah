@@ -20,5 +20,6 @@
 ## Featured Projects
 
 - 🏠 **[Align](https://github.com/ar1shah/align)** - a full-stack real estate agent-matching platform
+- 🔨 **[PartSync](https://github.com/ar1shah/PartSync)** - a authenticated inventory dashboard with analytics
 - 🛡️ **[RedirectGuard](https://github.com/ar1shah/redirect-guard)** - chrome extension that blocks  unwanted redirects
 - 📄 **[ResumeMaxx](https://github.com/ar1shah/ResumeMaxx)** - resume vs. job description match scorer
