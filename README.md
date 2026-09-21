@@ -2,7 +2,7 @@
   
 # Hi, I'm Ari 👋
 
-📍 Orlando ↔ Miami **|** 🏫 Comp Sci @ UCF **|** 🚀 [SRS Consulting Founder](https://srsoptimize.com/)
+📍 Orlando **|** 🏫 Comp Sci @ UCF **|** 🔗 [ar13.dev](https://www.ar13.dev/)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,3 +23,4 @@
 - 🔨 **[PartSync](https://github.com/ar1shah/PartSync)** - a authenticated inventory dashboard with analytics
 - 🛡️ **[RedirectGuard](https://github.com/ar1shah/redirect-guard)** - chrome extension that blocks  unwanted redirects
 - 📄 **[ResumeMaxx](https://github.com/ar1shah/ResumeMaxx)** - resume vs. job description match scorer
+- 🔗 **[ar13.dev](https://github.com/ar1shah/portfolio)** - my personal portfolio
